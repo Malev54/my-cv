@@ -1,0 +1,51 @@
+body {
+    padding: 0 30px;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Arial", sans-serif;
+    color: #222222;
+   }
+  
+  h1 {
+    font-size: 24px;
+    line-height: normal;
+  }
+  
+  h2 {
+    font-size: 20px;
+    line-height: normal;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  div{
+    margin-top:10px;
+
+  }
+
+.topblock{
+    display:block;
+    margin:10px;
+    padding:10px;
+    width:30%;
+}
+li{
+padding-left: 0;
+}
+.nav li{
+    display:inline-block;
+    border:2px solid black;
+    padding:10px;
+}
+
+.mainblock{
+display:block;
+width: 30%;
+}
+.ava{
+    display:block;
+    width:30%;
+    float:right;
+}
